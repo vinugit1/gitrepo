@@ -1,0 +1,2 @@
+# gitrepo
+to create repository
